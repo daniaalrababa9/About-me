@@ -1,7 +1,7 @@
 'use strict';
 var name = prompt(' what is your name?');
 alert('Hi  ' + name + '  welcome to my bage ');
-console.log('name', name);
+//console.log('name', name);
 var food = prompt('do you eat junk food?');
 food = food.toLowerCase();
 if (food === 'yes') {
@@ -11,7 +11,7 @@ if (food === 'yes') {
 } else {
     alert('good for you.');
 }
-console.log('food', food);
+//console.log('food', food);
 var smoking = prompt('do you smoke?');
 smoking = smoking.toLowerCase();
 if (smoking === 'yes') {
@@ -21,7 +21,7 @@ if (smoking === 'yes') {
 } else {
     alert('good for you.');
 }
-console.log('smoking', smoking);
+//console.log('smoking', smoking);
 var exercises = prompt('do you do exercises?');
 exercises = exercises.toLowerCase();
 if (exercises === 'yes') {
@@ -31,7 +31,7 @@ if (exercises === 'yes') {
 } else {
     alert('oh, no this is bad for your health.');
 }
-console.log('exercises', exercises);
+//console.log('exercises', exercises);
 var breakfast = prompt('do you eat brakfast?');
 breakfast = breakfast.toLowerCase();
 if (breakfast === 'yes') {
@@ -41,7 +41,7 @@ if (breakfast === 'yes') {
 } else {
     alert('please avoid skipping breakfast ,lest your blood sugar drop.');
 }
-console.log('breakfast', breakfast);
+//console.log('breakfast', breakfast);
 var cover = prompt('do you cover your head during sleep ?');
 cover = cover.toLowerCase();
 if (cover === 'yes') {
@@ -51,6 +51,6 @@ if (cover === 'yes') {
 } else {
     alert('good for you.');
 }
-console.log('cover', cover);
+//console.log('cover', cover);
 alert('Bye bye   ' + name + ', I hope that you enjoy visiting my site ');
 
