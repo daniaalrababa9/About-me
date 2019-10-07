@@ -1,8 +1,16 @@
 body{ background-color: cornsilk;}
-h1 { color:pink;
+h1 {border-style: outset;
+    border-radius: 40px;
+    border-block-width: 50px; 
+    border-width: medium;
+    border-color:purple;
+     color:rgb(177, 24, 49);
 text-align: center;}
 
-p {color:palevioletred;
+p {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-shadow: 2px 1px pink;
+    color:rgb(104, 7, 39);
 text-align: center;}
 footer{color: purple;
 text-align-last: center}
