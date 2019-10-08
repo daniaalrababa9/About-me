@@ -18,6 +18,7 @@ for (var i = 0; i < dania.length; i++) {
         case 'yes':
         case 'y':
             alert(yesreply);
+            score++;
             break;
         case 'no':
         case 'n':
@@ -75,7 +76,7 @@ switch (userreplies) {
     default:
         
             alert('wrong answer');
-            var userreplies = prompt('please reanswer the question? ');
+            var userreplies = prompt('please reanswer the question?and choose from these choice (orange , mango ,Cherries,Grapes,apple,banana, Dragon Fruit,Strawberry,Avocados');
 
         }
 }
