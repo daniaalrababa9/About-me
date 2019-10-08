@@ -83,7 +83,7 @@ alert('your score is '+ score)
 alert('the fruit that i like to eat is '+ fruit[0] + ' ,' + fruit[1] + ', ' + fruit[2] + ', ' + fruit[3] + ' ,' + fruit[4] + ' and ' + fruit[5]);
 alert('Bye bye   ' + name + ', I hope that you enjoy visiting my site ');
 console.log('name', name);
-console.log('name', userreplay);
-console.log('name', age);
-console.log('name', userreplies);
+console.log('userreplay', userreply);
+console.log('age', age);
+console.log('userreplies)', userreplies);
 // document.write('<h2>'+score+'</h2>')
