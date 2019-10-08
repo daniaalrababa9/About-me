@@ -76,7 +76,7 @@ switch (userreplies) {
     default:
         
             alert('wrong answer');
-            var userreplies = prompt('please reanswer the question?and choose from these choice (orange , mango ,Cherries,Grapes,apple,banana, Dragon Fruit,Strawberry,Avocados');
+            var userreplies = prompt('please reanswer the question?and choose from these choice (orange , mango ,Cherries,Grapes,apple,banana, Dragon Fruit,Strawberry,Avocados)');
 
         }
 }
