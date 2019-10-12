@@ -1,25 +1,44 @@
 
 body{ background-color: cornsilk;
 }
-h1 {border-style: outset;
-    border-radius: 40px;
-    border-block-width: 20px; 
-    border-width: medium;
-    border-color:purple;
-     color:rgb(177, 24, 49);
-text-align: center;}
+ span {font-size: 50px;
+     border-style: outset;
+    border-radius: 40px; 
+    border-width: 10px;
+    border-color:rgb(236, 118, 187);
+     color:rgb(250, 161, 176);
+     margin-left: 520px;
+    padding:0px 10px 10px 10px;}
 
-p {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+p {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
-    text-shadow: 2px 1px pink;
-    color:rgb(104, 7, 39);
+    text-shadow: 2px 1px rgb(223, 183, 223);
+    color:rgb(134, 9, 51);
+    text-align: center;
+    padding: .5px;
 }
 footer{color: purple;
 text-align-last: center}
-.topten li { color: deeppink;
-  
+section { color: rgb(124, 29, 69);
+   
+    border: 20px;
+    border-color: rgb(92, 50, 62);
+    
+    
     }
     .topten p {
-        color: blueviolet
+        color: rgb(63, 3, 55);
+        text-align: center;
     }
+   ul li ul li {
+        border-style: solid;
+        border-width: 1px;
+        padding: 10px;
+    background-color: peachpuff;
+        }
+        ul li {padding: 10px;
+        margin-bottom: 10px;}
+  
+            
+     .first { padding-top: 50px;}
     
